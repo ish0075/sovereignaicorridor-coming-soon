@@ -1,0 +1,16 @@
+# Backup files
+*.backup
+
+# Large media files
+*.jpg
+*.png
+*.pdf
+*.pptx
+
+# Folders
+assets/
+audio/
+slides/
+
+# Deploy scripts
+deploy-coming-soon.sh
